@@ -1,0 +1,30 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+logs/
+*.log
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Cachés
+*.cache
+.cache/
+
+# Directorios de compilación o distribución
+dist/
+build/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Otros
+*.tmp
+*.bak
+*.swp
